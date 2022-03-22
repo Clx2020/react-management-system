@@ -1,0 +1,23 @@
+.All{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.A{
+   flex: 2;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+}
+.a{
+    flex: 1;
+}
+.b{
+    flex: 1;
+}
+.c{
+    flex: 1;
+}
+.B{
+    flex: 1;
+}
